@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Mateus Felipe da Silveira Vieira"
+	],
+	"copyright": "Copyright © 2023, Mateus Felipe da Silveira Vieira",
+	"description": "A installer for Gentoo GNU/Linux write in D language",
+	"license": "GNU GPL v3 or later",
+	"name": "dgi"
+}
